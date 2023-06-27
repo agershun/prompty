@@ -1,0 +1,2 @@
+# prompty
+Prompt formal language
